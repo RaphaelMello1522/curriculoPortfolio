@@ -16,104 +16,102 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>src/pages/index.js</code>
-          </p>
           <div>
             <a
-              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              href="https://github.com/RaphaelMello1522"
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{' '}
+              
               <Image
-                src="/vercel.svg"
+                src="/images/GitHub.webp"
                 alt="Vercel Logo"
                 className={styles.vercelLogo}
+                width={50}
+                height={24}
+                priority
+              />
+            </a>
+          </div>
+          <div className={styles.description}>
+          <div>
+            <a
+              href="https://www.linkedin.com/in/raphael-mello-280/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                src="/images/LinkedIn.png"
+                alt="Vercel Logo"
+                className={styles.linkedin}
                 width={100}
                 height={24}
                 priority
               />
             </a>
           </div>
-        </div>
-
-        <div className={styles.center}>
-          <Image
-            className={styles.logo}
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
-            priority
-          />
-          <div className={styles.thirteen}>
-            <Image
-              src="/thirteen.svg"
-              alt="13"
-              width={40}
-              height={31}
-              priority
-            />
+          <div className='nome'>
+          <h2>Raphael Mello</h2>
+          <br/>
+          <h2>Dev Full-Stack</h2>
+          </div>
           </div>
         </div>
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="/sobre"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              Sobre <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Um pouco mais sobre a minha pessoa...
             </p>
           </a>
 
           <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="/experiencia"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Learn <span>-&gt;</span>
+              Experiência Profissional <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              Saiba mais sobre os projetos em que atuei...
             </p>
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="/tecnologias"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Templates <span>-&gt;</span>
+              Tecnologias <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Descubra aqui as mais recentes tecnologias que disponho de conhecimento...
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://wa.me/5541995494332?text=Ol%C3%A1+Raphael+estou+entrando+em+contato+referente+a+uma+oportunidade+de+trabalho"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Deploy <span>-&gt;</span>
+              Contato <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Instantly deploy your Next.js site to a shareable URL
-              with&nbsp;Vercel.
+              Caso fique interessado e queira entrar em contato clique aqui...
             </p>
           </a>
         </div>
