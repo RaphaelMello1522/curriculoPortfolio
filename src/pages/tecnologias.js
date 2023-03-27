@@ -17,87 +17,87 @@ export default function Home() {
       <main className={styles.main}>
       <h2>Tecnologias e Linguagens de Programação</h2>
         <div className={styles.card}>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white', width:'200px', marginLeft: '40px'}}>
             C#
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white', marginLeft: '40px'}}>
             Unit Of Work Design Pattern
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white', marginLeft: '40px'}}>
             Amazon Web Services
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white', marginLeft: '40px'}}>
             Sql Server avançado
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             SQLite
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Angular
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Azure DevOps e Azure Functions
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             IIS Express
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Kafka
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             React Native
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Flutter
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             ReactJS
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Google Firebase
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             NodeJs
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Javascript
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             WebScraping
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             WebCrawling
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             NextJs
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Xamarin
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             MongoDB
             </p>
             <br/>
-            <p style={{color: 'white'}}>
+            <p style={{color: 'white',marginLeft: '40px'}}>
             Tailwind Css, Saas, BootStrap, Ant Design, Material UI
             </p>
             <br/>
