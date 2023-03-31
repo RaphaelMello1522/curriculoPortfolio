@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-      <h2>Tecnologias e Linguagens de Programação</h2>
+      <h2 className='text-3xl font-bold'>Tecnologias e Linguagens de Programação</h2>
         <div className={styles.card}>
             <p style={{color: 'white', width:'200px', marginLeft: '40px'}}>
             C#

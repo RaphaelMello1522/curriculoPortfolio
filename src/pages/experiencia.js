@@ -79,7 +79,7 @@ export default function Home() {
         </div>
         <div className={styles.card}>
             <h2>Desenvolvedor C#</h2>
-            <p>Portal do Médico</p>
+            <p>SGAmbiental</p>
             <br/>
             <p>
             Experiência na qual foi desenvolvida uma site de gestão ambiental e controle de agenda de clientes

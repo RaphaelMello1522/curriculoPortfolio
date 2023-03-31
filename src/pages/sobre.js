@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
       <h2>Sobre Raphael</h2>
         <div className={styles.card}>
-            <p style={{color: 'white', width:'300px'}}>
+            <p style={{width:'300px'}} className='font-bold'>
             Jovem ambicioso atualmente com 24 anos de idade, estudante de Análise e Desenvolvimento de Sistemas,
             apaixonado por tecnologia desde cedo, programador C# voltado para o Asp.net,
             .Net core, utilizando os padrões de design MVC e Unit of Work, desenvolvendo funcionalidades

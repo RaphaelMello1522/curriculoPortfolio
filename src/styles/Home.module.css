@@ -1,3 +1,5 @@
+
+
 .main {
   display: flex;
   flex-direction: column;
@@ -7,6 +9,10 @@
   min-height: 100vh;
   background-image: url('../../public/images/background.jpg');
   
+}
+
+.image{
+  background-image: url('../../public/images/background.jpg');
 }
 
 .description {
@@ -165,6 +171,7 @@
   .card:hover {
     background: rgba(var(--card-rgb), 0.1);
     border: 1px solid rgba(var(--card-border-rgb), 0.15);
+    color: aqua;
   }
 
   .card:hover span {
